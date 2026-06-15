@@ -1,0 +1,24 @@
+{
+  "client_name": "TechCorp",
+  "contact_person": "John",
+  "email": null,
+  "phone": null,
+  "proposal_type": "conference",
+  "event_name": "TechForward 2024",
+  "event_date": "2024-03-15 to 2024-03-16",
+  "venue": "Downtown Convention Center",
+  "guest_count": 225,
+  "budget": "$25,000-30,000",
+  "estimated_cost": null,
+  "special_requirements": [
+    "live streaming capability for remote attendees"
+  ],
+  "services_requested": [
+    "full AV setup",
+    "catering for 200",
+    "speaker management",
+    "registration system"
+  ],
+  "timeline": null,
+  "key_notes": []
+}
