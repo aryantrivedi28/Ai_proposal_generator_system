@@ -431,9 +431,9 @@ with tab2:
     
     if stats['by_type']:
         type_data = pd.DataFrame([
-            {"Type": k.capitalize(), "Count": v} 
-            for k, v in stats['by_type'].items()
-        ])
+    {"Type": str(k).capitalize(), "Count": v}
+    for k, v in stats['by_type'].items()
+])
         st.bar_chart(type_data.set_index("Type"), use_container_width=True)
     else:
         st.info("Generate proposals to see type distribution")
