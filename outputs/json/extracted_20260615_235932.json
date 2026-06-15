@@ -1,0 +1,37 @@
+{
+  "client_name": "HealthCare Plus",
+  "contact_person": "Dr. Sarah Lee",
+  "email": null,
+  "phone": null,
+  "proposal_type": "corporate",
+  "event_name": "Leadership training program",
+  "event_date": "2024-07-22 to 2024-07-24",
+  "venue": "Conference Center, Room A-D",
+  "guest_count": 30,
+  "budget": "$25,000",
+  "estimated_cost": null,
+  "special_requirements": [
+    "Interactive activities and role-playing",
+    "Pre and post-training assessments",
+    "Digital certificates upon completion",
+    "Facilitator with healthcare industry experience",
+    "Sample training agenda in proposal",
+    "Post-training evaluation report",
+    "Sustainable catering options",
+    "Gluten-free and dairy-free options",
+    "Wi-Fi for all participants"
+  ],
+  "services_requested": [
+    "Training materials and workbooks (30 copies)",
+    "Catering - lunch and breaks each day",
+    "AV equipment for presentations",
+    "Breakout rooms for 6 groups of 5"
+  ],
+  "timeline": null,
+  "key_notes": [
+    "Participants are remote during week"
+  ],
+  "proposal_id": "20260615_235932",
+  "docx_path": "outputs/proposals/proposal_20260615_235932.docx",
+  "created_at": "2026-06-15T23:59:33.119053"
+}

@@ -17,6 +17,8 @@ class TranscriptExtractor:
         self.client = OpenAI(api_key=api_key)
         self.cost_tracker = CostTracker()  # NEW
         self.proposal_id = None  # NEW
+
+        print("API Key Found:", bool(os.getenv("OPENAI_API_KEY")))
     
     def set_proposal_id(self, proposal_id: str):  # NEW
         self.proposal_id = proposal_id

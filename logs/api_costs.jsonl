@@ -1,0 +1,2 @@
+{"timestamp": "2026-06-15T23:58:32.145764", "model": "gpt-4o-mini", "input_tokens": 390, "output_tokens": 255, "total_tokens": 645, "cost": 0.0002115, "proposal_id": null, "endpoint": "extraction"}
+{"timestamp": "2026-06-15T23:59:32.914551", "model": "gpt-4o-mini", "input_tokens": 390, "output_tokens": 265, "total_tokens": 655, "cost": 0.00021749999999999997, "proposal_id": "20260615_235832", "endpoint": "extraction"}
